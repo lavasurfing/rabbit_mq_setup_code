@@ -1,0 +1,1 @@
+AMQP is the cosumer-producer protocol which is implemented in a python package pika
